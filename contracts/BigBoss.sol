@@ -20,8 +20,8 @@ contract BigBoss is IUtilityContract {
 
         number = _number;
         bigBoss = _bigBoss;
-
         initialized = true;
+        
         return true;
     }
 
